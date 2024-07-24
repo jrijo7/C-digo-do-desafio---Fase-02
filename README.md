@@ -26,6 +26,10 @@ O projeto está estruturado da seguinte forma:
 
 Este projeto está licenciado sob a Licença MIT.
 
+## Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/kFlyDmRp7AD8Eb5wAU3UDx/Explorer---Projeto-02-(Copy)?node-id=0-1&t=JnxhCBF1BwTrvqgN-1)
+
 ## Contato
 
 Se você tiver alguma dúvida, entre em contato pelo e-mail: [joaovictor_gomes.7@hotmail.com](mailto:joaovictor_gomes.7@hotmail.com).
